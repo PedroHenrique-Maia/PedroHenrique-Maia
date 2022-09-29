@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, eu sou Pedro Maia</h1>
+<h3 align="center">Apaixonado em Dados</h3>
 
-<!--
-**PedroHenrique-Maia/PedroHenrique-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas **2W informatica**
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Git e API REST**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Pergunte-me sobre **ERP**
+
+- 📫 Como me encontrar https://www.linkedin.com/in/pedromaia777/
+
+<h3 align="left"> Conecte-se comigo:</h3>
+<p align="left">
+</p>
