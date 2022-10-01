@@ -33,9 +33,9 @@
 </ul> 
 <h2> 📚 My top programming languanges </h2> 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/PedroHenrique-Maia&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats)
   
   
 <h2> 📊 My Github Stats </h2>
 
-[![PedroHenrique-Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/PedroHenrique-Maia/github-readme-stats)
+[![PedroHenrique-Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=/PedroHenrique-Maia&show_icons=true&theme=highcontrast)](https://github.com/PedroHenrique-Maia/github-readme-stats)
