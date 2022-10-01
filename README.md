@@ -17,7 +17,4 @@
 <li> 😄 Github : https://github.com/PedroHenrique-Maia </li>
   <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
   <li>📫 Email : <a href=mailto:<nowiki>pedromaia.ti@gmail.com</a>  
-    
-    
-   <a href="pedromaia.ti@gmail.com">pedromaia.ti@gmail.com </li></a>
 </ul>
