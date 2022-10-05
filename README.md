@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Oi 👋, eu sou Pedro Maia</h1>
 <h3 align="center">Apaixonado em Dados</h3>
 
@@ -36,10 +34,14 @@
 
 <h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats) 
 
 [![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/lfernando-17/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats) 
+
+[![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=highcontrast)](https://github.com/PedroHenrique-Maia/github-readme-stats)
 
 <h2> 📬 Mantenha Contato</h2>
 
