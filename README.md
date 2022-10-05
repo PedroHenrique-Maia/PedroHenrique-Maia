@@ -3,7 +3,7 @@
 <h1 align="center">Oi 👋, eu sou Pedro Maia</h1>
 <h3 align="center">Apaixonado em Dados</h3>
 
-<h2> 🚀💻 Technologies & Tools </h2> 
+<h2> 🚀💻 Technologias & Ferramentas </h2> 
 <div style="display : inline ; margin-right: 30px">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -24,13 +24,19 @@
 
 - 💬 Pergunte-me sobre **ERP**
 
-<h2> 🚀💻 Technologias & Ferramentas </h2> 
+<h2> 📬 Mantenha Contato</h2>
 
-<h2> 📚 My top programming languanges </h2> 
+<ul>
+<li> 😄 Github : https://github.com/PedroHenrique-Maia </li>
+  <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
+  <li>📫 Email : <a href=mailto:pedromaia.ti@gmail.com>pedromaia.ti@gmail.com</a>  
+</ul>
+
+
+
+<h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats) 
-  
-<h2> 📊 My Github Stats </h2>
 
 [![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfernando-17&show_icons=true&theme=highcontrast)](https://github.com/lfernando-17/github-readme-stats)
 
