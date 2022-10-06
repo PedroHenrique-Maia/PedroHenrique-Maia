@@ -40,16 +40,16 @@
       <td width="170" valign="top" style="width:127.55pt;border:none;padding:0cm 0pt 0cm 5.4pt;height:0pt">
         <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;line-height:normal">
           <b>
-            <span style="font-size:10.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:black">Pedro Maia<br>Analista de Suporte
+            <span style="font-size:10.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:black">Pedro Maia<br>Analista de Sistemas
             </span>
           </b>
             <span style="font-size:9.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:#0d0d0d">
-              <br>(21)3527-0252 | Ramal: 9450
+              <br>(21)3527-0252 | (21) 98000-9511
               <br>
           </span>
           <span style="font-size:9.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif">
-            <a href="mailto:suporteapollo@2wiformatica.com.br" target="_blank">
-              <span style="color:blue">suporteapollo@2wiformatica.com.br
+            <a href="mailto:pedro@2wiformatica.com.br" target="_blank">
+              <span style="color:blue">pedro@2wiformatica.com.br
               </span></a></span><span style="font-size:8.0pt">
           </span>
         </p>
