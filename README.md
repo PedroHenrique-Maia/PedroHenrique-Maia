@@ -61,16 +61,7 @@
   <tbody>
   </tbody>
 </table>
-</div>
-</div>
-</div>
-</div>
-</td>
-<td class="Aq">&nbsp;
-</td>
-</tr>
-</tbody>
-</table>
+
 
 <h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
