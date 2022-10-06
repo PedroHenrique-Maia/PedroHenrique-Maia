@@ -40,7 +40,7 @@
       <td width="170" valign="top" style="width:127.55pt;border:none;padding:0cm 0pt 0cm 5.4pt;height:0pt">
         <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;line-height:normal">
           <b>
-            <span style="font-size:10.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:black">Pedro Maia<br>Técnico de Sistemas
+            <span style="font-size:10.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:black">Pedro Maia<br>Analista de Suporte
             </span>
           </b>
             <span style="font-size:9.0pt;font-family:&quot;Bahnschrift SemiLight&quot;,sans-serif;color:#0d0d0d">
