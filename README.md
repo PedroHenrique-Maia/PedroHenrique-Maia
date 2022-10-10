@@ -63,6 +63,6 @@
 <h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&langs_count=8&theme=react" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&langs_count=8&theme=react" width="385"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=react&include_all_commits=true&count_private=true"width="487"/>
 </div>
