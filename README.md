@@ -65,5 +65,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&theme=graywhite&hide_border=true" width="346" />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="487"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroHenrique-Maia20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?usernamePedroHenrique-Maia&layout=compact&langs_count=8&theme=react"/>
 </div>
