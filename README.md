@@ -23,13 +23,13 @@
 - 💬 Pergunte-me sobre **ERP**
 
 <h2> 📬 Mantenha Contato</h2>
-<div align="center">
+
 <ul>
 <li> 😄 Github : https://github.com/PedroHenrique-Maia </li>
   <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
   <li>📫 Email : <a href=mailto:pedromaia.ti@gmail.com>pedromaia.ti@gmail.com</a>  
 </ul>
-
+<div align="center">
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
   <tbody>
     <tr style="height:0pt">
