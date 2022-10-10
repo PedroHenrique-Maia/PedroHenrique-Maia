@@ -63,6 +63,6 @@
 <h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="542"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&theme=graywhite&hide_border=true" width="385" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="487"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&theme=graywhite&hide_border=true" width="346" />
 </div>
