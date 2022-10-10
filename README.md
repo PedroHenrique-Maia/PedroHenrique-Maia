@@ -62,7 +62,7 @@
 
 <h2> 📚 Estatística de Linguagens no Github 📊</h2> 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats
+https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats)
 
 
 
