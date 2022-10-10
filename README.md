@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />   
 </div>
-
+<div>
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas **2W informatica**
 
 - 🔭 Atualmente estou estudando Sistemas da Informação Unilasalle-RJ
@@ -28,6 +28,7 @@
   <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
   <li>📫 Email : <a href=mailto:pedromaia.ti@gmail.com>pedromaia.ti@gmail.com</a>  
 </ul>
+</div>
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
   <tbody>
