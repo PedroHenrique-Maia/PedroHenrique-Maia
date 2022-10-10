@@ -64,6 +64,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&langs_count=8&layout=compact)](https://github.com/PedroHenrique-Maia/github-readme-stats) 
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
 
 [![PedroHenrique-Maia's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=highcontrast)](https://github.com/PedroHenrique-Maia/github-readme-stats)
