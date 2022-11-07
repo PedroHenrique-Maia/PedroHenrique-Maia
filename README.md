@@ -76,4 +76,4 @@
  ![Snake animation](https://github.com/PedroHenrique-Maia/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-  </div>
+
