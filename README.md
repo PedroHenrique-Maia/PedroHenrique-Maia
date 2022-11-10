@@ -12,14 +12,12 @@
 <div>
   <h2> 📬 Contato</h2>
   <ul>
-  <li> 😄 Github : https://github.com/PedroHenrique-Maia </li>
     <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
     <li>📫 Email : <a href=mailto:pedromaia.ti@gmail.com>pedromaia.ti@gmail.com</a>  
   </ul>
 </div>
 
-<h2> 📚 Estatística de Linguagens no Github 📊</h2> 
-
+<h2> 📚 Estatística de Linguagens no Github 📊</h2>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroHenrique-Maia&layout=compact&langs_count=8&theme=chartreuse-dark" width="378"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"width="450"/>
