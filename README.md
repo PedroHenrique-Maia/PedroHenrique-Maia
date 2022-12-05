@@ -10,12 +10,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />   
 </div>
 <div>
-  <h2> 📬 Contato</h2>
- '  <div  align="center"; style="display : inline ; margin-right: 30px">
-    <a href="https://instagram.com/pedro.maia.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:pedromaia.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pedromaia777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
+  <h2> 📬 Contato<a href="https://instagram.com/pedro.maia.7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href = "mailto:pedromaia.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/pedromaia777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></h2>
  
   <ul>
     <li> 💬 Linkedin : https://www.linkedin.com/in/pedromaia777/ </li>
