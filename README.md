@@ -36,16 +36,16 @@
 
 <div align="left">
   <!-- Redes Sociais -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://linkedin.com/in/pedromaia777" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/SEU_INSTA_AQUI" target="_blank">
+  <a href="https://instagram.com/pedro.maia.7" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank">
+  <a href="https://wa.me/5521980009511" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:pedromaia.ti@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
