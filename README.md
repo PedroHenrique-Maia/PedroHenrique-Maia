@@ -1,7 +1,7 @@
-<h1 align="left">Olá! Eu sou o Pedro Maia 👋</h1>
+<h1 align="left">Pedro Maia 👋</h1>
 
 <p align="left">
-  Sou um desenvolvedor apaixonado por criar soluções web modernas e minimalistas.
+  Negócios modernos e minimalistas.
 </p>
 
 ###
