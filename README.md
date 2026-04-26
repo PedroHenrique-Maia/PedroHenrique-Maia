@@ -7,20 +7,16 @@
 ###
 
 <div align="left">
-  <!-- Primeira Linha: Stats e Streaks -->
+  <!-- Painel de Estatísticas, Linguagens e Streaks agrupados -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=dark&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=2F80ED" alt="Top Languages" />
   <img height="180em" src="https://streak-stats.demolab.com?user=PedroHenrique-Maia&theme=dark&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakNum=2F80ED" alt="GitHub Streak" />
-</div>
-
-<div align="left">
-  <!-- Segunda Linha: Top Languages esticado (card_width=800 faz a mágica) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=2F80ED&card_width=690" alt="Top Languages" />
 </div>
 
 ###
 
 <div align="left">
-  <!-- Tecnologias + Antigravity (Restaurado) -->
+  <!-- Tecnologias + Antigravity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -35,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="16" />
-  <img src="https://img.shields.io/badge/Antigravity-2F80ED?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" alt="Antigravity">
-</div>
 
 ###
 
