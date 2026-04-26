@@ -7,19 +7,7 @@
 ###
 
 <div align="left">
-  <!-- Painel de Estatísticas, Linguagens e Streaks agrupados sem bordas -->
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=PedroHenrique-Maia&show_icons=true&theme=dark&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="GitHub Stats" />
-        <br/>
-        <img height="165" src="https://streak-stats.demolab.com?user=PedroHenrique-Maia&theme=dark&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakNum=2F80ED" alt="GitHub Streak" />
-      </td>
-      <td valign="top">
-        <img height="650" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+        <img height="2000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=8" alt="Top Languages" />
 </div>
 
 ###
