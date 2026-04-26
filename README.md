@@ -14,7 +14,7 @@
 
 <div align="left">
   <!-- Segunda Linha: Top Languages esticado (card_width=800 faz a mágica) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=2F80ED&card_width=685" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=2F80ED&card_width=690" alt="Top Languages" />
 </div>
 
 ###
