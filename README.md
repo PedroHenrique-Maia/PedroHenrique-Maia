@@ -15,10 +15,12 @@
 ###
 
 <div align="left">
-  <!-- Tecnologias (Você pode adicionar ou remover os ícones que quiser) -->
+  <!-- Tecnologias -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
@@ -36,11 +38,14 @@
   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://instagram.com/SEU_INSTA_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/55SEUNUMEROAQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
   <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://discord.com/users/SEU_DISCORD_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
 
@@ -50,3 +55,4 @@
   <!-- Streak Stats com detalhes em azul -->
   <img src="https://streak-stats.demolab.com?user=PedroHenrique-Maia&theme=dark&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakNum=2F80ED" alt="GitHub Streak" />
 </div>
+
