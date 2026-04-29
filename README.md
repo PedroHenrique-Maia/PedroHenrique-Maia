@@ -6,9 +6,7 @@
 
 ###
 
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia" />
-</div>
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=10"/>
+<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=20"/>
   </div>
 ###
 
