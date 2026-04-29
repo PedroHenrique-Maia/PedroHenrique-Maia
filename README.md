@@ -7,7 +7,7 @@
 ###
 
 <div align="left"> <img height="2000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=8" alt="Top Languages" />
-       <img height="2000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=8" alt="Top Languages" /> 
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique-Maia&theme=dark&show_icons=true&hide_border=true&title_color=2F80ED&langs_count=8" /> 
 </div>
 
 ###
